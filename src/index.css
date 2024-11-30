@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  background: linear-gradient(to bottom, #000000, #1a1a1a);
+  color: #ffffff;
+}
+
+@keyframes tilt {
+  0%, 100% { transform: rotate(-2deg); }
+  50% { transform: rotate(2deg); }
+}
+
+.animate-tilt {
+  animation: tilt 10s infinite linear;
+}
