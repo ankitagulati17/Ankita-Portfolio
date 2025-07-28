@@ -45,7 +45,7 @@ export default function Hero() {
               transition={{ duration: 0.2 }}
             >
               <img
-                src="https://freeimage.host/i/FvvFuj4"
+                src="https://iili.io/FvvFuj4.jpg"
                 alt="Ankita Gulati"
                 className="w-64 h-64 object-cover"
               />
