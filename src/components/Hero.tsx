@@ -45,7 +45,7 @@ export default function Hero() {
               transition={{ duration: 0.2 }}
             >
               <img
-                src="https://media.licdn.com/dms/image/v2/D5603AQHsMlSUCoPdSg/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1724334553360?e=1747267200&v=beta&t=LvKXrsfEMGvCysgojvcYppX9vsCtJ0EJPSL0fz4Kbzg"
+                src="https://freeimage.host/i/FvvFuj4"
                 alt="Ankita Gulati"
                 className="w-64 h-64 object-cover"
               />
